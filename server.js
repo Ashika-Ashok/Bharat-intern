@@ -4,7 +4,7 @@ const { MongoClient } = require('mongodb');
 const bcrypt = require('bcrypt');
 const path = require('path');
 const app = express();
-const port = 3004;
+const port = 3000;
 const url = 'mongodb://localhost:27017';
 const dbName = 'registrationDB';
 app.use(bodyParser.json());
