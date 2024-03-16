@@ -1,4 +1,4 @@
-# Bharat-intern
+#registration_form #bharath_intern
 This project is a simple registration form built using HTML, CSS, and MongoDB. It allows users to register by providing their username, email, and password. The form ensures that the email and password are not the same.
 
 
